@@ -38,7 +38,10 @@ The following sorting algorithms are implemented:
 All algorithms: 
 
 
-![image](https://github.com/user-attachments/assets/fac7ddf6-a785-4dec-a101-1de56677aafc)
+![image](https://github.com/user-attachments/assets/822bee4c-b1ea-475e-a801-634cc3938572)
+
+
+![image](https://github.com/user-attachments/assets/3cb3e82b-579d-49f5-b976-33640afd6d57)
 
 
 Merge sort vs Quick sort:
