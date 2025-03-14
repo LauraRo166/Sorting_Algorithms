@@ -29,4 +29,20 @@ The following sorting algorithms are implemented:
 ## Unit and coverage testing
 
 
+![image](https://github.com/user-attachments/assets/555c6e51-de0e-44fe-87ba-9eeea8dff89b)
+
+
 ## Test and visualization
+
+
+All algorithms: 
+
+
+![image](https://github.com/user-attachments/assets/fac7ddf6-a785-4dec-a101-1de56677aafc)
+
+
+Merge sort vs Quick sort:
+
+
+![image](https://github.com/user-attachments/assets/97cc1754-1104-4a2a-b219-27fb1dac507f)
+
